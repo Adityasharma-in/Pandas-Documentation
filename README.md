@@ -41,7 +41,7 @@ CoW behavior is documented explicitly throughout — where chained assignment br
 
 | File | Description |
 |---|---|
-| `pandas-masterclass.html` | Full HTML reference (all 13 modules) |
+| `index.html` | Full HTML reference (all 13 modules) |
 | `PANDAS_MASTERCLASS.md` | Same content in Markdown |
 
 ## License
